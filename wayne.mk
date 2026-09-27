@@ -33,7 +33,7 @@ PRODUCT_CHARACTERISTICS := nosdcard
 
 # Init
 PRODUCT_PACKAGES += \
-    init.device.rc
+    wayne-common.init.device.rc
 
 # USB
 PRODUCT_PACKAGES += \
